@@ -2,7 +2,23 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lab4/lab4_front/.angular/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/lab4_front/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_1/Lab1/target/generated-sources" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_1/Lab1f/.angular" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_1/Lab1f/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_2/backend/target/Lab_1-1.0-SNAPSHOT/META-INF" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_2/backend/target/generated-sources" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_2/frontend/.angular" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_2/frontend/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_3/backend/target/Lab_1-1.0-SNAPSHOT/META-INF" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_3/backend/target/generated-sources" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_3/frontend/.angular" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab_3/frontend/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/lab4_back/target/generated-sources" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/lab4_front/.angular" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
