@@ -1,0 +1,30 @@
+.about {
+    padding-top: 3%;
+    padding-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -20px;
+    // flex-wrap: wrap;
+    .about_img img {
+            border-radius: 0.5rem;
+            // max-width: 300px;
+        }
+    
+        .about_text h2 {
+            font-size: 1.8rem;
+            text-transform: uppercase;
+        }
+    
+        .about_text p {
+            font-size: 0.938rem;
+            margin: 0.5rem 0 1.1rem;
+        }
+    .about_img{
+        padding: 10px 20px;
+    }
+    .about_text{
+        padding: 10px 20px;
+
+    }
+}
+
